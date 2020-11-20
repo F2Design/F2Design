@@ -69,6 +69,26 @@ Ademas soy estudiante en Platzi, estudiante en Programa Platzi Master, un progra
         <span><strong>Html5</strong></span><br><br>
         <img height="50px" src="http://f2design.com.co/html5.svg">
       </td>
+      <td width="25%" align="center">
+        <span><strong>Html5</strong></span><br><br>
+        <img height="50px" src="http://f2design.com.co/html5.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Html5</strong></span><br><br>
+        <img height="50px" src="http://f2design.com.co/html5.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Html5</strong></span><br><br>
+        <img height="50px" src="http://f2design.com.co/html5.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Html5</strong></span><br><br>
+        <img height="50px" src="http://f2design.com.co/html5.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Html5</strong></span><br><br>
+        <img height="50px" src="http://f2design.com.co/html5.svg">
+      </td>
     </tr>
   </tbody>
 </table>
