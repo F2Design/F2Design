@@ -1,6 +1,9 @@
-# Fredy Frasser - F2Design 
+<p align="center">
+ <img width="100px" src="http://f2design.com.co/f2design.svg" align="center" alt="Github Readme Stats"/>
+ <h2 align="center">Profile</h2>
+</p>
 
-http://[F2design].github.io/assets/css/common.css
+# Fredy Frasser - F2Design 
 
 Hola 👋🏼
 
