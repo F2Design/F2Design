@@ -8,13 +8,8 @@
 <h3> 🤝🏻 Conectate conmigo </h3>
 
 <p align="center">
-<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="http://f2design.com.co/"></a>
-<a href="https://www.linkedin.com/in/fredyfrasser/" target="_blank"><img alt="LinkedIn" src="https://www.linkedin.com/in/fredyfrasser/"></a>
-</p>
-
-<p align="center">
-<a href="http://f2design.com.co/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.f2design.com.co-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/fredyfrasser/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@F2Design-blue?style=flat&logo=linkedin"></a>
+<a href="http://f2design.com.co/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.f2design.com.co-blue?style=flat&logo=google-chrome" target="_blank"></a>
+<a href="https://www.linkedin.com/in/fredyfrasser/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@F2Design-blue?style=flat&logo=linkedin" target="_blank"></a>
 </p>
 
 
