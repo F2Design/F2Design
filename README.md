@@ -53,8 +53,6 @@ Ademas soy estudiante en Platzi, estudiante en Programa Platzi Master, un progra
 <table>
   <tbody>
     <tr valign="top">
-    </tr>
-    <tr valign="top">
       <td width="25%" align="center">
         <span><strong>inVision</strong></span><br><br>
         <img height="50px" src="http://f2design.com.co/invision.svg">
