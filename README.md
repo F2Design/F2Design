@@ -5,7 +5,7 @@ Hola 👋🏼
 Diseñador Gráfico y Desarrollador Web entrenado en HTML CSS, entusiasta de las interfaces de usuario, curioso y enfocado en expandir conocimientos para obtener un máximo desarrollo personal y laboral, gusto por resolver retos, investigar y analizar en mi entorno. 
 Busco continuo desarrollo en lenguajes como JavaScript, React.js y Next.js
 
-Ademas soy estudiante en Platzi, estudiante en el https://platzi.com/blog/que-es-platzi-master/, un programa para el 0,1% superior de estudiantes. Allí, he sido intensamente entrenado sobre frontend Development.
+Ademas soy estudiante en Platzi, estudiante en Programa Platzi Master, un programa para el 0,1% superior de estudiantes. Allí, he sido intensamente entrenado sobre frontend Development.
 
 🚀 Software
 • InVision
