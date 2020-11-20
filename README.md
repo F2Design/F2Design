@@ -41,7 +41,7 @@ Ademas soy estudiante en Platzi, estudiante en Programa Platzi Master, un progra
         <img height="40px" src="http://f2design.com.co/react.svg">
       </td>
       <td width="25%" align="center">
-        <span<strong>Next.js</strong>span><br><br>
+        <span<strong>Next.js</strong>span><br>
         <img height="70px" src="http://f2design.com.co/nextjs.svg">
       </td>
     </tr>
