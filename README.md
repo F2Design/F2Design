@@ -1,6 +1,6 @@
 # Fredy Frasser - F2Design 
 
-<link href="assets/css/common.css" rel="stylesheet">
+http://[F2design].github.io/assets/css/common.css
 
 Hola 👋🏼
 
