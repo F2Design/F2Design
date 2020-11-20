@@ -8,7 +8,7 @@
 <h3> 🤝🏻 Conectate conmigo </h3>
 
 <p align="center">
-<a href="http://f2design.com.co/" target="_blank"><img alt="Website" src="http://f2design.com.co/"></a>
+<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="http://f2design.com.co/"></a>
 <a href="https://www.linkedin.com/in/fredyfrasser/" target="_blank"><img alt="LinkedIn" src="https://www.linkedin.com/in/fredyfrasser/"></a>
 </p>
 
