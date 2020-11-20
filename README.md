@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="http://f2design.com.co/f2design.png" align="center" alt="Github Readme Stats"/>
- <h2 align="center">Profile</h2>
+ <h2 align="center">Perfil</h2>
 </p>
 
 # Fredy Frasser - F2Design 
