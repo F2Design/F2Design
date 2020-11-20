@@ -27,28 +27,28 @@ Ademas soy estudiante en Platzi, estudiante en Programa Platzi Master, un progra
 - Photoshop
 - Indesign
 
-### Actualmente estoy aprendiendo 🌐
+### 🌐 Actualmente estoy aprendiendo 
 
 <table>
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗦𝘂𝗯𝗹𝗶𝗺𝗲 𝗧𝗲𝘅𝘁 𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
+        <span>JavaScript</span><br><br><br>
+        <img height="64px" src="http://f2design.com.co/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <span>React.js</span><br><br><br>
+        <img height="64px" src="http://f2design.com.co/react.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <span>Next.js</span><br><br><br>
+        <img height="64px" src="http://f2design.com.co/nextjs.svg">
       </td>
     </tr>
   </tbody>
 </table>
 
-### Herramietas 🛠️
+### 🛠️ Herramietas 
 
 <table>
   <tbody>
