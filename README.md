@@ -37,12 +37,12 @@ Ademas soy estudiante en Platzi, estudiante en Programa Platzi Master, un progra
         <img height="40px" src="http://f2design.com.co/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗖#</span><br><br>
-        <img height="40px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+        <span><strong>React.js</strong></span><br><br>
+        <img height="40px" src="http://f2design.com.co/react.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮</span><br><br>
-        <img height="40px" src="https://cdn.svgporn.com/logos/java.svg">
+        <span<strong>Next.js</strong>span><br><br>
+        <img height="40px" src="http://f2design.com.co/next-js.svg">
       </td>
     </tr>
     <tr valign="top">
