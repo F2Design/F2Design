@@ -20,7 +20,8 @@ Ademas soy estudiante en Platzi, estudiante en Programa Platzi Master, un progra
 • Next.js
 
 ### 📬 Puede ponerse en contacto conmigo en:
-• [Linkedin] (https://www.linkedin.com/in/fredyfrasser/).
+• [Linkedin] 
+(https://www.linkedin.com/in/fredyfrasser/)
 
 ### 🌎 Website
 (http://f2design.com.co/)
