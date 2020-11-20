@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-<a href="http://f2design.com.co/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/fredyfrasser/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
+<a href="http://f2design.com.co/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.f2design.com.co-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/fredyfrasser/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@F2Design-blue?style=flat&logo=linkedin"></a>
 </p>
 
 
