@@ -29,7 +29,7 @@ Ademas soy estudiante en Platzi, estudiante en Programa Platzi Master, un progra
 
 ### Actualmente estoy aprendiendo 🌐
 
-| [<img src="http://f2design.com.co/javascript.svg" alt="JavaScript" width="25">](https://www.javascript.com/) | [<img src="f2design.com.co/react.svg" alt="React.js" width="25">](https://es.reactjs.org/)  | [<img src="http://f2design.com.co/next-js.svg" alt="Next.js" width="25">](https://nextjs.org/) |
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" width="24">](https://laravel.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="38">](https://php.net/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" width="24">](https://vuejs.org/)  |
 |---|---|---|---|---|---|
 
 ### Tools 🛠️
