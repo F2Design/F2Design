@@ -1,5 +1,7 @@
 # Fredy Frasser - F2Design 
 
+<link href="assets/css/common.css" rel="stylesheet">
+
 Hola 👋🏼
 
 Diseñador Gráfico y Desarrollador Web entrenado en HTML CSS, entusiasta de las interfaces de usuario, curioso y enfocado en expandir conocimientos para obtener un máximo desarrollo personal y laboral, gusto por resolver retos, investigar y analizar en mi entorno. 
