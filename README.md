@@ -29,7 +29,7 @@ Ademas soy estudiante en Platzi, estudiante en Programa Platzi Master, un progra
 
 ### Actualmente estoy aprendiendo 🌐
 
-| [<img src="http://f2design.com.co/javascript.svg" alt="JavaScript" width="25">](https://www.javascript.com/) | [<img src="f2design.com.co/react.svg" alt="React.js" width="25">](https://es.reactjs.org/)  | [<img src="http://f2design.com.co/next-js.svg" alt="Next.js" width="25">](https://nextjs.org/)
+| [<img src="http://f2design.com.co/javascript.svg" alt="JavaScript" width="25">](https://www.javascript.com/) | [<img src="f2design.com.co/react.svg" alt="React.js" width="25">](https://es.reactjs.org/)  | [<img src="http://f2design.com.co/next-js.svg" alt="Next.js" width="25">](https://nextjs.org/) |
 |---|---|---|---|---|---|
 
 ### Tools 🛠️
