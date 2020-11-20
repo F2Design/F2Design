@@ -7,20 +7,20 @@ Busco continuo desarrollo en lenguajes como JavaScript, React.js y Next.js
 
 Ademas soy estudiante en Platzi, estudiante en Programa Platzi Master, un programa para el 0,1% superior de estudiantes. Allí, he sido intensamente entrenado sobre frontend Development.
 
-### 🚀 Software
+# 🚀 Software
 • InVision
 • Figma
 • Illustrator
 • Photoshop
 • Indesign
 
-### 📚 Actualmente estoy aprendiendo
+# 📚 Actualmente estoy aprendiendo
 • JavaScript
 • React.js
 • Next.js
 
-### 📬 Puede ponerse en contacto conmigo en:
+# 📬 Puede ponerse en contacto conmigo en:
 • Linkedin https://www.linkedin.com/in/fredyfrasser/
 
-### 🌎 Website
+# 🌎 Website
 http://f2design.com.co/
