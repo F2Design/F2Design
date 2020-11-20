@@ -34,7 +34,7 @@ Ademas soy estudiante en Platzi, estudiante en Programa Platzi Master, un progra
     <tr valign="top">
       <td width="25%" align="center">
         <span>JavaScript</span><br><br><br>
-        <img height="40px" src="http://f2design.com.co/javascriptsvg">
+        <img height="40px" src="http://f2design.com.co/javascript.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗖#</span><br><br><br>
