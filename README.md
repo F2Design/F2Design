@@ -3,7 +3,15 @@
  <h2 align="center">Perfil</h2>
 </p>
 
-# Fredy Frasser - F2Design 
+# Fredy Frasser
+
+<h3> 🤝🏻 Conectate conmigo </h3>
+
+<p align="center">
+<a href="http://f2design.com.co/" target="_blank"><img alt="Website" src="http://f2design.com.co/"></a>
+<a href="https://www.linkedin.com/in/fredyfrasser/" target="_blank"><img alt="LinkedIn" src="https://www.linkedin.com/in/fredyfrasser/"></a>
+</p>
+
 
 Hola 👋🏼
 
@@ -24,8 +32,4 @@ Ademas soy estudiante en Platzi, estudiante en Programa Platzi Master, un progra
 - React.js
 - Next.js
 
-### 📬 Puede ponerse en contacto conmigo en:
-- [Lnkedin](https://www.linkedin.com/in/fredyfrasser/).
-
-### 🌎 Website
-- [www.f2esign.com](http://f2design.com.co/)
+⭐️ From [@F2Design](https://github.com/F2Design)
