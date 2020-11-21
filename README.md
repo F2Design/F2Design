@@ -77,7 +77,7 @@ Ademas soy estudiante en Platzi, estudiante en Programa Platzi Master, un progra
         <span><strong>Photoshop</strong></span><br><br>
         <img height="50px" src="http://f2design.com.co/photoshop.svg">
       </td>
-      <td width="35%" align="center">
+      <td width="15%" align="center">
         <span><strong>CSS</strong></span><br><br>
         <img height="50px" src="http://f2design.com.co/css3.png">
       </td>
