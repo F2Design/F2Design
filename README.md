@@ -95,7 +95,7 @@ Ademas soy estudiante en Platzi, estudiante en Programa Platzi Master, un progra
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=F2Design&show_icons=true&theme=synthwave" alt="F2Design :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=F2Design&show_icons=true&title_color=83c51b&icon_color=fbfd00&text_color=fff&bg_color=000000" alt="F2Design :: Profile Stats" /></p>
 
 
 <h2>🖥 Algunas estadísticas</h2>
