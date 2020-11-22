@@ -91,7 +91,7 @@ Ademas soy estudiante en Platzi, estudiante en Programa Platzi Master, un progra
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
 
-[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=F2Design&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=649918&bg_color=000000)](https://github.com/F2CDesign)
+[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=F2Design&show_icons=true&title_color=649918&icon_color=79ff97&text_color=fff&bg_color=000000)](https://github.com/F2CDesign)
 
 <br><br>
 
