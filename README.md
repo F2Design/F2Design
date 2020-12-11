@@ -88,10 +88,6 @@ Ademas soy estudiante en Platzi, estudiante en Programa Platzi Master, un progra
 
 <h2>🖥 Algunas estadísticas</h2>
 
-<p align="center">
-[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=F2Design&show_icons=true&title_color=83c51b&icon_color=fbfd00&text_color=fff&bg_color=000000)](https://github.com/F2Design)
-</p>
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=F2Design&show_icons=true&theme=Egoist-One" alt="F2Design :: Profile Stats" /></p>
 
 <br><br>
