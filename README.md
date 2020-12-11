@@ -88,6 +88,8 @@ Ademas soy estudiante en Platzi, estudiante en Programa Platzi Master, un progra
 
 <h2>🖥 Algunas estadísticas</h2>
 
+<br>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=F2Design&show_icons=true&theme=Egoist-One" alt="F2Design :: Profile Stats" /></p>
 
 <br><br>
