@@ -27,11 +27,11 @@ Ademas soy estudiante en Platzi, estudiante en Programa Platzi Master, un progra
     <tr valign="top">
       <td width="25%" align="center">
         <span><strong>JavaScript</strong></span><br><br>
-        <img height="50px" src="http://f2design.com.co/javascript.svg">
+        <img height="50px" src="http://f2design.net/javascript.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>React.js</strong></span><br><br>
-        <img height="50px" src="http://f2design.com.co/react.svg">
+        <img height="50px" src="http://f2design.net/react.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Next.js</strong></span><br><br>
