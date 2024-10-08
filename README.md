@@ -52,7 +52,7 @@ Ademas soy estudiante en Platzi, estudiante en Programa Platzi Master, un progra
       </td>
       <td width="25%" align="center">
         <span><strong>Figma</strong></span><br><br>
-        <img height="50px" src="http://f2design.com.co/figma-1.svg">
+        <img height="50px" src="[http://f2design.com.co/figma-1.svg](http://f2design.net/figma-1.svg)">
       </td>
       <td width="25%" align="center">
         <span><strong>HTML</strong></span><br><br>
