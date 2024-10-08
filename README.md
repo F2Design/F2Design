@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="http://f2design.com.co/f2design.png" align="center" alt="Github Readme Stats"/>
+ <img width="100px" src="http://f2design.net/f2design.svg" align="center" alt="Github Readme Stats"/>
  <h2 align="center">Perfil</h2>
 </p>
 
@@ -9,7 +9,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/fredyfrasser/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@F2Design-blue?style=flat&logo=linkedin" target="_blank"></a>
-<a href="http://f2design.com.co/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.f2design.com.co-blue?style=flat&logo=google-chrome" target="_blank"></a>
+<a href="http://f2design.net/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.f2design.net-blue?style=flat&logo=google-chrome" target="_blank"></a>
 </p>
 
 
@@ -33,10 +33,6 @@ Ademas soy estudiante en Platzi, estudiante en Programa Platzi Master, un progra
         <span><strong>React.js</strong></span><br><br>
         <img height="50px" src="http://f2design.net/react.svg">
       </td>
-      <td width="25%" align="center">
-        <span><strong>Next.js</strong></span><br><br>
-        <img height="64px" src="http://f2design.com.co/nextjs.svg">
-      </td>
     </tr>
   </tbody>
 </table>
@@ -47,32 +43,28 @@ Ademas soy estudiante en Platzi, estudiante en Programa Platzi Master, un progra
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>inVision</strong></span><br><br>
-        <img height="50px" src="http://f2design.com.co/invision.svg">
-      </td>
-      <td width="25%" align="center">
         <span><strong>Figma</strong></span><br><br>
         <img height="50px" src="http://f2design.net/figma-1.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>HTML</strong></span><br><br>
-        <img height="50px" src="http://f2design.com.co/html5.svg">
+        <img height="50px" src="http://f2design.net/html5.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>CSS</strong></span><br><br>
-        <img height="60px" src="http://f2design.com.co/css3.svg">
+        <img height="60px" src="http://f2design.net/css3.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>VSCode</strong></span><br><br>
-        <img height="50px" src="http://f2design.com.co/visual-studio-code.svg">
+        <img height="50px" src="http://f2design.net/visual-studio-code.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Illustrator</strong></span><br><br>
-        <img height="50px" src="http://f2design.com.co/illustrator.svg">
+        <img height="50px" src="http://f2design.net/illustrator.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Photoshop</strong></span><br><br>
-        <img height="50px" src="http://f2design.com.co/photoshop.svg">
+        <img height="50px" src="http://f2design.net/photoshop.svg">
       </td>
     </tr>
   </tbody>
