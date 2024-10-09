@@ -76,7 +76,7 @@ Ademas soy estudiante en Platzi, estudiante en Programa Platzi Master, un progra
 
 <h4 align="center">👨🏼‍💻 Principales idiomas</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F2Design&langs_count=10&title_color=83c51b&icon_color=fbfd00&text_color=fff&bg_color=000000" alt="F2Design :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F2Design&langs_count=10&title_color=83c51b&icon_color=e4e2e2&text_color=fff&bg_color=000000" alt="F2Design :: Top Langs" /></p>
 <br>
 
 <h2>🖥 Algunas estadísticas</h2>
