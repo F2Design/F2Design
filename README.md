@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="http://f2design.net/f2design.svg" target="_blank" align="center" alt="Github Readme Stats"/>
+ <img width="100px" src="http://f2design.net" target="_blank" align="center" alt="Github Readme Stats"/>
  <h2 align="center">Perfil</h2>
 </p>
 
