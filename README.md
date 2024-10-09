@@ -8,15 +8,15 @@
 <h3> 🤝🏻 Conectate conmigo </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/fredyfrasser/" target="_blank"><img alt="LinkedIn" target="_blank" src="https://img.shields.io/badge/LinkedIn-@F2Design-blue?style=flat&logo=linkedin" target="_blank"></a>
-<a href="http://f2design.net/" target="_blank"><img alt="Website" target="_blank" src="https://img.shields.io/badge/Website-www.f2design.net-blue?style=flat&logo=google-chrome" target="_blank"></a>
+<a href="https://www.linkedin.com/in/fredyfrasser/"><img alt="LinkedIn" target="_blank" src="https://img.shields.io/badge/LinkedIn-@F2Design-blue?style=flat&logo=linkedin"></a>
+<a href="http://f2design.net/" target="_blank"><img target="_blank" alt="Website" src="https://img.shields.io/badge/Website-www.f2design.net-blue?style=flat&logo=google-chrome"></a>
 </p>
 
 
 Hola 👋🏼
 
 Diseñador Gráfico y Desarrollador Web entrenado en HTML CSS, entusiasta de las interfaces de usuario, curioso y enfocado en expandir conocimientos para obtener un máximo desarrollo personal y laboral, gusto por resolver retos, investigar y analizar en mi entorno. 
-Busco continuo desarrollo en lenguajes como JavaScript, React.js y Next.js
+Busco continuo desarrollo en lenguajes como JavaScript y React.js
 
 Ademas soy estudiante en Platzi, estudiante en Programa Platzi Master, un programa para el 0,1% superior de estudiantes. Allí, he sido intensamente entrenado sobre frontend Development.
 
